@@ -35,6 +35,4 @@ PHP
 MySql
 
 # Links
-Google Drive Link-> https://drive.google.com/drive/folders/1elre__9034jQLdEoaPoBW8iNWxqe2T27?usp=sharing
-
 Demo Video -> https://drive.google.com/file/d/1L_YSpn313Dw_SsNR_plwcCPlm4q8RrFa/view?usp=sharing
